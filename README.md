@@ -26,8 +26,6 @@
 
 <p>a. Interest Coverage Ratio – how many times the earnings can pay the interested owned in that year by the company</p>
 
-<img src="viniciuspantoja/TDI_project_V1/aal_interest_coverage.png" width="200px" height="300px" />
-
 ![alt text](https://github.com/viniciuspantoja/TDI_project_V1/blob/master/aal_interest_coverage.png)
 
 <p>b. Merton’s Model – Model that assess risk using option theory</p>
@@ -82,7 +80,11 @@
 
 <p>I have the first results in this part. The graphs bellow shows the Asset turnover of recommended stocks, in case you own American Airlines stocks (AAL):</p>
 
+![alt text](https://github.com/viniciuspantoja/TDI_project_V1/blob/master/aal_asset_turnover.png)
+
 <p>This second graph shows the current ratio of the recommended stocks in case you own AAL:</p>
+
+![alt text](https://github.com/viniciuspantoja/TDI_project_V1/blob/master/aal_current_ratio.png)
 
 <p>3.3. Recommended stocks given a desired risk level</p>
 
