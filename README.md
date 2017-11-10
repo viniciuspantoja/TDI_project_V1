@@ -26,6 +26,8 @@
 
 <p>a. Interest Coverage Ratio – how many times the earnings can pay the interested owned in that year by the company</p>
 
+<img src="viniciuspantoja/TDI_project_V1/image.jpg" width="200px" height="300px" />
+
 <p>b. Merton’s Model – Model that assess risk using option theory</p>
 
 <p>c. Machine learning to approximate Moodys’ KMV model – Moodys’ KMV model is a proprietary model that uses a similar structure of Merton’s Model, but its details are not known. However, we have the output of the model (the ratings that Moody releases). As we have the information of the company, I’ll use deep learning to approximate it’s rating function. </p>
