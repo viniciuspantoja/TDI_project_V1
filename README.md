@@ -26,7 +26,7 @@
 
 <p>a. Interest Coverage Ratio – how many times the earnings can pay the interested owned in that year by the company</p>
 
-<img src="viniciuspantoja/TDI_project_V1/image.jpg" width="200px" height="300px" />
+<img src="viniciuspantoja/TDI_project_V1/aal_interest_coverage.png" width="200px" height="300px" />
 
 <p>b. Merton’s Model – Model that assess risk using option theory</p>
 
